@@ -6,7 +6,7 @@ ENOVIA(3DEXPERIENCE) 개발용 도구 배포 파일입니다. 파일명은 고�
 | --- | --- | --- | --- |
 | 3D Inspector | 0.17.3 | [3d-inspector.zip](https://github.com/LeeOuHyoun/3d-devTools/raw/main/3d-inspector.zip) | 위젯 화면에 로드된 소스를 검색하는 크롬 개발자도구 확장 |
 | 3D MQL Console | 0.0.71 | [3d-mql-console.vsix](https://github.com/LeeOuHyoun/3d-devTools/raw/main/3d-mql-console.vsix) | ENOVIA MQL 세션을 편집기 탭에서 사용하는 VS Code 확장 |
-| 3D MQL Graph | 0.0.96 | [3d-mql-graph.vsix](https://github.com/LeeOuHyoun/3d-devTools/raw/main/3d-mql-graph.vsix) | ENOVIA MQL로 객체와 관계를 그래프로 탐색하는 VS Code 확장 |
+| 3D MQL Graph | 0.0.97 | [3d-mql-graph.vsix](https://github.com/LeeOuHyoun/3d-devTools/raw/main/3d-mql-graph.vsix) | ENOVIA MQL로 객체와 관계를 그래프로 탐색하는 VS Code 확장 |
 
 ## 3D Inspector 설치
 
